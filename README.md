@@ -138,8 +138,7 @@ O layout foi desenvolvido com foco em:
 
  ## 📷 Preview
 
-![Dashboard Preview](preview-dashboard.png)
-
+![Dashboard Preview](preview-dashboard.png.png)
 
 👨‍💻 Autor
 
