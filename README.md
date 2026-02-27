@@ -1,5 +1,6 @@
-Talent Acquisition Analytics
-📌 Overview
+# Talent Acquisition Analytics
+
+Dashboard Analítico em Power BI para Monitoramento de Recrutamento
 
 Este projeto consiste no desenvolvimento de um dashboard analítico para monitoramento e otimização do processo de recrutamento e seleção (Talent Acquisition).
 
