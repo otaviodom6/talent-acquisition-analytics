@@ -136,6 +136,10 @@ O layout foi desenvolvido com foco em:
 
 - Integração com base de dados real (SQL Server / Azure)
 
+ ## 📷 Preview
+
+![Dashboard Preview](preview-dashboard.png)
+
 
 👨‍💻 Autor
 
